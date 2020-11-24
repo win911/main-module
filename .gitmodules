@@ -1,0 +1,3 @@
+[submodule "common/sub1"]
+	path = common/sub1
+	url = https://github.com/win911/sub-module.git
